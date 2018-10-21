@@ -1,5 +1,5 @@
 # liri-node-app
-LIRI is a Language Interpretation and Recognition Interface. Use LIRI to get your latest tweets, find out about a song, or a movie, or just choose a random action from your own random file.
+LIRI is a Language Interpretation and Recognition Interface. Use LIRI to find out about a song or a movie, or just choose a random action from your own random file.
 
 To retrieve song information for a track:
 
